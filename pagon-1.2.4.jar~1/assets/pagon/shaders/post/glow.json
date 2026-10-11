@@ -1,0 +1,19 @@
+{
+    "targets": [
+        "swap"
+    ],
+    "passes": [
+        {
+            "name": "glow",
+            "intarget": "minecraft:main",
+            "outtarget": "swap",
+            "shader": "pagon:glow"
+        },
+        {
+            "name": "blit",
+            "intarget": "swap",
+            "outtarget": "minecraft:main",
+            "shader": "minecraft:post/blit"
+        }
+    ]
+}

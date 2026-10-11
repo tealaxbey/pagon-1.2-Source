@@ -1,0 +1,19 @@
+{
+    "targets": [
+        "swap"
+    ],
+    "passes": [
+        {
+            "name": "solid",
+            "intarget": "minecraft:main",
+            "outtarget": "swap",
+            "shader": "pagon:solid"
+        },
+        {
+            "name": "blit",
+            "intarget": "swap",
+            "outtarget": "minecraft:main",
+            "shader": "minecraft:post/blit"
+        }
+    ]
+}
