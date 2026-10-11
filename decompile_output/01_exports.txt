@@ -1,0 +1,20 @@
+=== EXPORT FONKSİYONLARI ===
+
+  [   1]  RVA=0x2390  Java_org_itsmahir_pagon_nativep_FakeFlyNative_nativeHandleJump
+  [   2]  RVA=0x2180  Java_org_itsmahir_pagon_nativep_FakeFlyNative_nativeHandleMove
+  [   3]  RVA=0x20e0  Java_org_itsmahir_pagon_nativep_FakeFlyNative_nativeHandleTick
+  [   4]  RVA=0x2190  Java_org_itsmahir_pagon_nativep_FakeFlyNative_nativeHandleTravel
+  [   5]  RVA=0x20c0  Java_org_itsmahir_pagon_nativep_FakeFlyNative_nativeOnDisable
+  [   6]  RVA=0x1ec0  Java_org_itsmahir_pagon_nativep_FakeFlyNative_nativeOnEnable
+  [   7]  RVA=0x1d90  Java_org_itsmahir_pagon_nativep_NativeAPI_nativeDecrypt
+  [   8]  RVA=0x1cf0  Java_org_itsmahir_pagon_nativep_NativeAPI_nativeGetAllModules
+  [   9]  RVA=0x1b20  Java_org_itsmahir_pagon_nativep_NativeAPI_nativeGetValue
+  [  10]  RVA=0x15b0  Java_org_itsmahir_pagon_nativep_NativeAPI_nativeIsModuleEnabled
+  [  11]  RVA=0x1cc0  Java_org_itsmahir_pagon_nativep_NativeAPI_nativeOnDisable
+  [  12]  RVA=0x1cb0  Java_org_itsmahir_pagon_nativep_NativeAPI_nativeOnEnable
+  [  13]  RVA=0x1ce0  Java_org_itsmahir_pagon_nativep_NativeAPI_nativeOnRender
+  [  14]  RVA=0x1cd0  Java_org_itsmahir_pagon_nativep_NativeAPI_nativeOnTick
+  [  15]  RVA=0x1390  Java_org_itsmahir_pagon_nativep_NativeAPI_nativeRegisterModule
+  [  16]  RVA=0x1680  Java_org_itsmahir_pagon_nativep_NativeAPI_nativeRegisterValue
+  [  17]  RVA=0x1500  Java_org_itsmahir_pagon_nativep_NativeAPI_nativeSetModuleEnabled
+  [  18]  RVA=0x19b0  Java_org_itsmahir_pagon_nativep_NativeAPI_nativeSetValue

@@ -1,0 +1,30 @@
+=== PE GENEL BİLGİ ===
+
+Dosya      : f:\TEALAX\alem\pagon_native.dll
+Machine    : 0x8664
+TimeDateStamp: 1782596375
+Sections   : 20
+ImageBase  : 0x35a6e0000
+EntryPoint : 0x1340
+
+=== SECTIONS ===
+  .text       RVA=0x1000  Size=31232  Flags=0x60000060
+  .data       RVA=0x9000  Size=512  Flags=0xc0000040
+  .rdata      RVA=0xa000  Size=3072  Flags=0x40000040
+  .pdata      RVA=0xb000  Size=1536  Flags=0x40000040
+  .xdata      RVA=0xc000  Size=1536  Flags=0x40000040
+  .bss        RVA=0xd000  Size=0  Flags=0xc0000080
+  .edata      RVA=0x282e000  Size=1536  Flags=0x40000040
+  .idata      RVA=0x282f000  Size=1536  Flags=0xc0000040
+  .CRT        RVA=0x2830000  Size=512  Flags=0xc0000040
+  .tls        RVA=0x2831000  Size=512  Flags=0xc0000040
+  .reloc      RVA=0x2832000  Size=512  Flags=0x42000040
+  /4          RVA=0x2833000  Size=1536  Flags=0x42000040
+  /19         RVA=0x2834000  Size=67072  Flags=0x42000040
+  /31         RVA=0x2845000  Size=11776  Flags=0x42000040
+  /45         RVA=0x2848000  Size=27136  Flags=0x42000040
+  /57         RVA=0x284f000  Size=5632  Flags=0x42000040
+  /70         RVA=0x2851000  Size=512  Flags=0x42000040
+  /81         RVA=0x2852000  Size=6656  Flags=0x42000040
+  /97         RVA=0x2854000  Size=30720  Flags=0x42000040
+  /113        RVA=0x285c000  Size=1536  Flags=0x42000040
